@@ -47,6 +47,10 @@ const users = [
         username: 'user009834',
         password: '0casi8'
     },
+    {
+        username: 'demo',
+        password: 'demo'
+    },
 
 
 ];
