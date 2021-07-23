@@ -375,4 +375,16 @@ p.hi-letter {
     display: flex;
 }
 
+button#buy {
+    padding: 10px 50px;
+    background-color: green;
+    font-size: 18px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    margin-bottom: 15px;
+}
+
 
