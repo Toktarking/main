@@ -44,8 +44,8 @@ const users = [
         password: '908dlk'
     },
     {
-        username: 'user009834',
-        password: '0casi8'
+        username: 'bota_hale',
+        password: '270400bota'
     },
     {
         username: 'demo',
