@@ -376,8 +376,8 @@ btnTryAgain.addEventListener('click', tryAgain);
 
 counterSec = 10;
 counterSec2 = 5;
-counterMin = 9;
-counterMin2 = 0;
+counterMin = 4;
+counterMin2 = 1;
 
 
 
